@@ -1,5 +1,5 @@
 # UI Resources for Frontend Developers
-**This is a HacktoberFest Repository for UI Resources for Fronetend Developers.**
+**This is a HacktoberFest Repository for UI Resources for Frontend Developers.**
 
 Welcome to the UI Resources repository for frontend developers! This curated list includes a collection of valuable links to various UI resources that can enhance your web development projects. Whether you're a beginner or an experienced developer, you'll find useful tools, libraries, and inspiration to level up your user interface.
 
