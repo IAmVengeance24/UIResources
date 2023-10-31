@@ -67,4 +67,6 @@ Welcome to the UI Resources repository for frontend developers! This curated lis
 - [A11y Project](https://www.a11yproject.com/): A community-driven effort to make web accessibility easier.
 
 For Contributing to this List, you can refer to [CONTRIBUTING.md](/CONTRIBUTING.md)
-Feel free to contribute to this list by opening a pull request. Happy coding! 🚀
+
+Feel free to contribute to this list by opening a pull request. 
+Happy coding! 🚀
